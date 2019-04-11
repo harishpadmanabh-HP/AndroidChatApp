@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "423101157616",
+    "firebase_url": "https://chat-d62c5.firebaseio.com",
+    "project_id": "chat-d62c5",
+    "storage_bucket": "chat-d62c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423101157616:android:bc581484282e13a2",
+        "android_client_info": {
+          "package_name": "com.hp.hp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JYFTZDaWL8O15qO8QDDkicN61nT2BX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423101157616-erlsv331r5fqqohise023mn98gubr7do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
